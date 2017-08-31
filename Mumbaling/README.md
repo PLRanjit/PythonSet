@@ -1,0 +1,5 @@
+# Mumbaling-
+
+"abcd"    # "A-Bb-Ccc-Dddd"
+"RqaEzty" # "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"
+"cwAt"    # "C-Ww-Aaa-Tttt"
